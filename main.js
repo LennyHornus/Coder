@@ -1,4 +1,5 @@
 console.log('todo joya');
+import swal from 'sweetalert';
 // import swal from 'sweetalert';
 // 1) Muestre un mensaje en consola que diga lo siguiente: "¡MIRÁ MAMÁAA, ESTOY PROGRAMANDO!"
 // 2) Hacer una variable que almacene un número par mayor a 10.
@@ -12,7 +13,7 @@ console.log('todo joya');
 // 10) Cotejar el tipo de dato del punto 3 y 5.
 
 // DESAFÍO PRIMER) hacer un programa que pida la edad del usuario y que devuelva en una alerta, el año en que nació
-
+swal('hola')
 console.log("¡MIRÁ MAMÁAA, ESTOY PROGRAMANDO!");
 let par = 12;
 let impar = 99;
